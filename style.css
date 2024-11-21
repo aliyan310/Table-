@@ -1,0 +1,48 @@
+body {
+    background-color: black;
+    color: white;
+}
+
+
+.Main-Heading {
+    text-align: center;
+    border-radius: 10px;
+    color: white;
+}
+
+#head {
+    color: white;
+    text-align: center;
+    border: 1px solid grey;
+    width: 20%;
+    margin: 30px auto;
+    padding: 20px 5px;
+    word-spacing: 1.2rem ;
+}
+
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+label {
+    font-weight: bold;
+    font-size: 1.5rem;
+    color: white;
+}
+
+input {
+    background-color: grey;
+    border: 1px solid transparent;
+    padding: 5px 10px;
+    margin: 10px;
+}
+
+button {
+    padding: 5px 10px;
+    background-color: gray;
+    color: white;
+    border: 1px solid transparent;
+    font-size: 1rem;
+}
